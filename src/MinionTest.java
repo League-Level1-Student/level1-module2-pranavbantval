@@ -24,8 +24,8 @@ import org.junit.Test;
 
 public class MinionTest {
 
-	@Test
-	public void testConstructor() {
+	//@Test
+	/*public void testConstructor() {
 		Minion stuart = new Minion("Stuart", 1, "yellow", "");
 		assertEquals("Stuart", stuart.getName());
 		assertEquals(1, stuart.getEyes());
@@ -47,7 +47,7 @@ public class MinionTest {
 		stuart.setMaster("Napoleon");
 		assertEquals("Napoleon", stuart.getMaster());
 	}
-
+*/
 }
 
 
