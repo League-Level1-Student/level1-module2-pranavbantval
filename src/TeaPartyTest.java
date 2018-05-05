@@ -10,7 +10,7 @@
 				 a="Lady ";
 			 }
 			 else {
-				 a="Ms.";
+				 a="Ms. ";
 			 }
 			 
 		 }
@@ -22,7 +22,7 @@
 				a="Mr. "; 
 			 }
 		 }
-		 String s = "Hello " + a + name;
+		 String s = "Hello " + a+ name;
 		 System.out.println(s);
 		return s;
 
